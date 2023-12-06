@@ -3,7 +3,8 @@
 function App() {
   return (
     <div className="App">
-     IMDB Clone
+     IMDB Clone 
+      <p>Helo</p>
     </div>
   );
 }
